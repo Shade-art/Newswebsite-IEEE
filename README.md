@@ -9,3 +9,4 @@ It’s structured like a professional news portal where users can browse news by
 - `styles.css` — CSS files
 
 
+i was not able to setup the apis because it kept crashing my website and because of all quizes lab vivas i was not able to ask mentors just completed the front end for the love of the game
